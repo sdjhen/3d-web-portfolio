@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 package-lock.json
+3d-web-portfolio.code-workspace
 
 # Editor directories and files
 .vscode/*
